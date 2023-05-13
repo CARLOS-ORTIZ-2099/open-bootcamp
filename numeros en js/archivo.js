@@ -23,8 +23,7 @@ let  weight = 60.5
 
 let redondeoHeight = Math.ceil(heightMetros)
 let redondeoweigth = Math.floor(weight)
-const max = Number.MAX_VALUE;
-const plusOne = max + 1;
+const maximos = Number.MAX_VALUE + 1 === Number.MAX_VALUE
 
 console.log(redondeoweigth)
 

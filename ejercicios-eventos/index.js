@@ -5,3 +5,9 @@ button.addEventListener('click',e => {
     alert('click en el botón')
 })
 
+
+$("button").click(function() {
+    console.log("Hola, estoy utilizando jQuery")
+})
+
+
